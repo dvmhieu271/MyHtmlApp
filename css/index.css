@@ -1,16 +1,13 @@
-div>p {
-	font-style: italic;
-}
-
 div>h1 {
 	font-weight: bold;
 }
 
 a:hover, a:visited {
+	font-style: italic;
 	text-decoration: none;
-	color: inherit;
+	color: blue;
 }
 
 a:hover {
-	color:red;
+	color: red;
 }
